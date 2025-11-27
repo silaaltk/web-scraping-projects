@@ -22,7 +22,7 @@ pip install requests beautifulsoup4
 3. Run the script in your terminal:
 ```bash
 
-python3 quotes_scraper.py
+python3 quotes.py
 ```
 4. The script will fetch quotes and authors from the website and display them in the terminal.
 
